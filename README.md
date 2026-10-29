@@ -64,23 +64,74 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Sutton Bank is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
+Sutton Bank is a progressive, independent community bank headquartered in Attica, Ohio. Founded in 1878, it has been recognized as a top small business and agricultural lender in the state. The bank offers a full suite of personal and business banking services, including checking and savings accounts, mortgages, consumer and business loans, digital banking, credit cards, treasury management, and investment services through Ameriprise Financial. Sutton Bank focuses on serving the financial needs of individuals, families, and businesses in the communities it serves.
 
-**Areas:** Company
+**Areas:** Banking · Financial Services · Community Bank · Ohio · Personal Banking · Business Banking
 
 ## Sutton Bank on APIs.io
 
 Everything profiled for Sutton Bank is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/sutton-bank/](https://apis.io/providers/sutton-bank/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Sutton Bank Domain Security](https://apis.io/security/sutton-bank/sutton-bank-domain-security/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://suttonbank.com/)
+- [Support](https://www.suttonbank.com/about-us/contact-us.html)
+- [Privacy policy](https://www.suttonbank.com/privacy-policy.html)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/sutton-bank/](https://apis.io/providers/sutton-bank/).
+**Kin Score 6.2** — minimal · rubric 0.25.0 · scored 2026-10-28
+
+| Facet | Score |
+|---|---|
+| Discoverability | 50.0 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 10.5 |
+
+**Agent readiness 3.1** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 7.9** — Banking & Open Finance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/sutton-bank/](https://apis.io/providers/sutton-bank/).
 
 ## How this profile is made
 
